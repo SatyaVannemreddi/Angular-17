@@ -1,0 +1,5 @@
+{
+  "env": "Prod",
+  "production": true,
+  "enrlUrl": "http://localhost:4000/api"
+}

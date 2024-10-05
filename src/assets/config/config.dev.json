@@ -1,0 +1,5 @@
+{
+  "env": "Dev",
+  "production": true,
+  "enrlUrl": "http://localhost:4000/api"
+}
